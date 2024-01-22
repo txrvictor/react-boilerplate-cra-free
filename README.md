@@ -1,2 +1,3 @@
 # react-boilerplate-cra-free
-React project boilerplate without CRA
+
+React app boilerplate without using [Create React App (CRA)](https://create-react-app.dev/)
